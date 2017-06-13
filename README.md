@@ -23,7 +23,7 @@ Interactions -
 Graphtries -
 Random_Forest.
 
-If you have any inquiry, feel free to contact me at 437283mp@student.eur.nl.
+If you have any inquiry, feel free to contact me at pocchiari@rsm.nl.
 
 Thank you,
 Martina Pocchiari
